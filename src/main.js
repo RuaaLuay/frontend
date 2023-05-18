@@ -16,7 +16,7 @@ Vue.config.productionTip = false
 
 Vue.use(VueGoogleMaps, { //use vue2-google-map to display maps with some feature (marker, infowindow, etc)
         load: {
-            key: 'AIzaSyDEsOm9JwBayoz_CuJIslL3ume-ZE8h2B0',
+            key: 'API KEY',
             libraries: 'places',
             //the key generated when register project free trial on google maps JS API
         },
